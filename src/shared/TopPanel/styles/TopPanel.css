@@ -1,0 +1,11 @@
+.top-panel {
+    position: absolute;
+    top: 0;
+    height: var(--top-panel-height);
+    background-color: var(--bg-color-1);
+    width: 100vw;
+    padding-left: var(--left-panel-width);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

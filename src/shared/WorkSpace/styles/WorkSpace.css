@@ -1,0 +1,8 @@
+.workspace {
+    position: absolute;
+    top: var(--top-panel-height);
+    left: var(--left-panel-width);
+    right: var(--right-panel-width);
+    bottom: 0;
+    background-color: var(--bg-workspace-color);
+}

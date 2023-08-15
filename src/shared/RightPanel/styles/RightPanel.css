@@ -1,0 +1,8 @@
+.right-panel {
+    width: var(--right-panel-width);
+    background-color: var(--bg-color-2);
+    position: absolute;
+    top: var(--top-panel-height);
+    right: 0;
+    height: calc( 100vh - var(--top-panel-height));
+}

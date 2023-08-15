@@ -1,0 +1,27 @@
+.navbar {
+    height: 30px;
+    background: #8f2727;
+    width: 200px;
+    position: relative;
+    cursor: pointer;
+}
+.navbar:hover .navbar_list {
+    height: auto;
+}
+.navbar_list {
+    height: 0px;
+    overflow: hidden;
+    background: rosybrown;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+    z-index: 999999;
+}
+.navbar_list-item {
+    padding: 5px;
+}
+.navbar_list-item:hover {
+    background: #8f2727;
+
+}

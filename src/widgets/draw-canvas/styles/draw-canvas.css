@@ -1,0 +1,9 @@
+.draw-canvas {
+    position: absolute;
+    box-sizing: content-box;
+}
+
+.canvas-wrapper {
+    position: absolute;
+    border: 1px solid black;
+}

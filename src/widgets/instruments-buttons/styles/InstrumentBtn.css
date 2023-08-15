@@ -1,0 +1,18 @@
+.instrument-btn {
+  width: 60px;
+  height: 60px;
+  background: darkred;
+  margin-bottom: 10px;
+  border: 4px solid #000;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.instrument-btn:hover {
+  background: #8f2727;
+}
+.instrument-btn svg {
+  width: 75%;
+}

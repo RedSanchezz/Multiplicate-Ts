@@ -1,0 +1,7 @@
+.left-panel {
+    height: var(--left-panel-height);
+    background-color: var(--bg-color-1);
+    width: var(--left-panel-width);
+    position: absolute;
+    top: var(--top-panel-height);
+}

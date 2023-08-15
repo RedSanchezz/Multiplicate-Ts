@@ -1,0 +1,12 @@
+:root {
+    --top-panel-height: 80px;
+    --left-panel-height: calc( 100vh - var(--top-panel-height) );
+    --left-panel-width: 100px;
+    --right-panel-width: 300px;
+
+
+    --bg-color-1: rgb(102, 145, 178);
+    --bg-color-2: rgb(42, 114, 173);
+    --bg-color-3: rgb(7, 108, 185);
+    --bg-workspace-color: rgba(175, 175, 175, 0.7);
+}
